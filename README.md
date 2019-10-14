@@ -1,6 +1,6 @@
 # What and Why
 This repos contains some arbitrary `HTML` e-mail templates I created during
-my journey of learning and using Gmail.
+my journey of learning and using `HTML` e-mail based on Gmail client.
 
 Sometimes I need to send a newsletter with a fancy appearance (or layout).
 Sometimes I simply need to try out some ideas and the limits that different
@@ -12,4 +12,4 @@ are linked to them. In other words, they all use the `<style>` tag to employ
 `inline CSS`.
 
 `<tr>` and `<td>` are heavily relied on since `<table>` seems to be the only
-choice left to me to create a well-structured layout. 
+choice left to me to create a well-structured layout.
