@@ -1,0 +1,11 @@
+<!--work in progress-->
+<table>
+  <<thead>
+    <<th>Email templates</th>
+  </thead>
+  <<tbody>
+    <<tr>
+      <<td></td>
+    </tr>
+  </tbody>
+</table>
