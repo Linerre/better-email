@@ -14,4 +14,6 @@ are linked to them. In other words, they all use the `<style>` tag to employ
 `<tr>` and `<td>` are heavily relied on since `<table>` seems to be the only
 choice left to me to create a well-structured layout.
 
+learned the `<ruby>` tab, interesting!
+
 May first need to learn from many other templates.
