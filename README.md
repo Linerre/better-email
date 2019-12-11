@@ -17,3 +17,5 @@ choice left to me to create a well-structured layout.
 learned the `<ruby>` tab, interesting!
 
 May first need to learn from many other templates.
+
+Dive into HTML next year!
