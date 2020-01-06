@@ -20,4 +20,4 @@ Keep thinking about new ideas
 
 May first need to learn from many other templates.
 
-Dive into HTML next year!
+~~Dive into HTML next year!~~
