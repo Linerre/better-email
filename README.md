@@ -7,17 +7,10 @@ Sometimes I simply need to try out some ideas and the limits that different
 e-mail clients allow for.
 
 # Pure to some degree
-The `HTML` files here are pure only in the sense that no external `CSS` files
+~~The `HTML` files here are pure only in the sense that no external `CSS` files
 are linked to them. In other words, they all use the `<style>` tag to employ
-`inline CSS`.
+`inline CSS`.~~
 
-`<tr>` and `<td>` are heavily relied on since `<table>` seems to be the only
-choice left to me to create a well-structured layout.
+~~`<tr>` and `<td>` are heavily relied on since `<table>` seems to be the only
+choice left to me to create a well-structured layout.~~
 
-learned the `<ruby>` tab, interesting!
-
-Keep thinking about new ideas
-
-May first need to learn from many other templates.
-
-~~Dive into HTML next year!~~
