@@ -1,1 +1,1 @@
-Some HTML templates for email promotions.
+Some HTML templates for email campaings.
