@@ -2,7 +2,7 @@ Some HTML templates for email campaings.
 ## TODO
 - [ ] one or two templates
 - [ ] CSS
-- [ ] HTML tables
+- [x] HTML tables
 - [ ] Color palette
 - [ ] No JS
 
