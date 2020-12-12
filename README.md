@@ -1,6 +1,4 @@
-Some HTML templates for email campaings.
-## TODO
-- [ ] one or two templates
+
 - [ ] CSS
 - [x] HTML tables
 - [ ] Color palette
