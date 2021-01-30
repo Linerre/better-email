@@ -1,5 +1,5 @@
 
-- [ ] CSS
+- [X] CSS
 - [x] HTML tables
 - [ ] Color palette
 
